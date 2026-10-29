@@ -26,7 +26,7 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 3. Piddlesjet speaks jettish! She's physically unable to verbally speak any language verbally. The closest equivalent of her speaking will sound like this (lower your volume!!!):
 
 <p align="center">
-  <a href="https://youtu.be/Tr4zb-HHZs4?si=3MDiCUJfJvc1cuuo&t=31" target="_blank">
+  <a href="https://www.youtube.com/" target="https://youtu.be/Tr4zb-HHZs4?si=3MDiCUJfJvc1cuuo&t=31">
     <img src="https://youtu.be/Tr4zb-HHZs4?si=3MDiCUJfJvc1cuuo&t=31" alt="happy birthday tooo youuuuuuuuu" width="480" height="360" border="10" />
   </a>
 </p>
