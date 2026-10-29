@@ -35,4 +35,10 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 
 5. Piddlesjet is NOT to be confused for Piddles.jet! Piddlesjet is our mascot, Piddles.jet is our account.
 
+6. Yes, Piddlesjet has her own skin! She's usually by docks, but can generally be found everywhere. You'll have better luck finding her at docks, though! it's her favourite spot.
+
+   <img width="380" alt="pony-town-PT-Piddles-Jet-fly-name-fixed-padded-16x" src="https://github.com/user-attachments/assets/1259c626-6870-4b08-8217-388467908827" />
+
+~~...ignore how low quality Piddlesjet is...~~
+
 <br clear="right" />
