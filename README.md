@@ -10,7 +10,7 @@
   <img align="right" width="400" src="https://i.postimg.cc/KjGN7Qsp/ezgif-maker.gif">
 </p>
 
-Hello yet again, passenger! This is our complementary repository for those who want to see the background behind Piddles.jet! Sit back, put your glasses on, and have fun reading!
+Hello yet again, passenger! This is our complementary repository made as a <img width="109" height="27" alt="image" src="https://github.com/user-attachments/assets/ca43c483-9713-44cc-9565-0c831ea184f0" /> special. This is a repository containing information about our nomination account ~~i'm getting too proud of this project... Teehee!~~ for those who want to see the background behind Piddles.jet, you can go on and scroll down!
 
 <p align="left">
   <img src="https://i.postimg.cc/FsgfXNz1/fatcs-pj.png" alt="pj facts" width="200"> 
