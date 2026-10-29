@@ -16,7 +16,7 @@ Hello yet again, passenger! This is our complementary repository for those who w
   <img src="https://i.postimg.cc/FsgfXNz1/fatcs-pj.png" alt="pj facts" width="200"> 
 </p> 
 
-1. Piddlesjet was at first, was NOT going to be Piddlesjet! It was at first going to be labeled "PT-The-Blog", which was based off of the original Hoops&Yoyo blogging site. The theme was going to be something like this:
+1. Piddles.jet was at first, was NOT going to be Piddles.jet! It was at first going to be labeled "PT-The-Blog", which was based off of the original Hoops&Yoyo blogging site. The theme was going to be something like this:
 <p align="left">
   <img src="https://i.postimg.cc/ryH0NQbS/newbie-birthday-shout-out.jpg" alt="blog" width="390">
 </p> 
@@ -32,5 +32,7 @@ Hello yet again, passenger! This is our complementary repository for those who w
 </p>
 
 4. Piddlesjet's favourite drink is aviation turbine fuel.
+
+5. Piddlesjet is NOT to be confused for Piddles.jet! Piddlesjet is our mascot, Piddles.jet is our account.
 
 <br clear="right" />
