@@ -41,4 +41,18 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 
 ~~...ignore how low quality Piddlesjet is...~~
 
+<p align="left">
+  <img src="https://i.postimg.cc/GpmpKwxn/qna-pj.png" alt="pj qna" width="200"> 
+</p> 
+
+placeholder
+
+<p align="left">
+  <img src="https://i.postimg.cc/Kv7vyv0p/random-pj.png" alt="pj random" width="200"> 
+</p> 
+
+wow ok 
+<img width="452" height="44" alt="image" src="https://github.com/user-attachments/assets/ce484eba-d711-42e0-9df7-2f50a84a34a3" />
+
+
 <br clear="right" />
