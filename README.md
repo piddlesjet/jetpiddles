@@ -45,7 +45,9 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
   <img src="https://i.postimg.cc/GpmpKwxn/qna-pj.png" alt="pj qna" width="200"> 
 </p> 
 
-placeholder
+<img width="327" height="38" alt="image" src="https://github.com/user-attachments/assets/92d604de-7a9c-4e7b-a951-19afa2777d98" />
+
+nope! It's a special category for custom titles, but not limited to yumeshipping!
 
 <p align="left">
   <img src="https://i.postimg.cc/Kv7vyv0p/random-pj.png" alt="pj random" width="200"> 
