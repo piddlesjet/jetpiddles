@@ -37,9 +37,8 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 
 6. Yes, Piddlesjet has her own skin! She's usually by docks, but can generally be found everywhere. You'll have better luck finding her at docks, though! it's her favourite spot.
 
-   <img width="380" alt="pony-town-PT-Piddles-Jet-fly-name-fixed-padded-16x" src="https://github.com/user-attachments/assets/1259c626-6870-4b08-8217-388467908827" />
+<img width="399" alt="pony-town-pt-piddlesjet but shes cooler-boop-fly-name-padded-16x" src="https://github.com/user-attachments/assets/3b0b05fd-8e45-4ca4-931f-5ff572d962d5" /> <img width="200" alt="pony-town-PT-PiddlesJet-boop-fly-name-padded-16x" src="https://github.com/user-attachments/assets/e17e77f2-0bf6-48b5-a632-67aa305cb469" />
 
-~~...ignore how low quality Piddlesjet is...~~
 
 <p align="left">
   <img src="https://i.postimg.cc/GpmpKwxn/qna-pj.png" alt="pj qna" width="200"> 
@@ -48,6 +47,10 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 <img width="327" height="38" alt="image" src="https://github.com/user-attachments/assets/92d604de-7a9c-4e7b-a951-19afa2777d98" />
 
 nope! It's a special category for custom titles, but not limited to yumeshipping!
+
+<img width="476" height="49" alt="image" src="https://github.com/user-attachments/assets/047c5b1f-2f4b-420e-9cf6-9e665a8a76ec" />
+
+"Ship" titles go under the custom titles category! anything unrelated/unfitting to the set categories (popular, always online, prettiest skins/layouts, cuddle bugs and character nominations) will go under the custom titles category.
 
 <p align="left">
   <img src="https://i.postimg.cc/Kv7vyv0p/random-pj.png" alt="pj random" width="200"> 
