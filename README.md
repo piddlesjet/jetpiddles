@@ -39,6 +39,11 @@ Hello yet again, passenger! This is our complementary repository made as a <img 
 
 <img width="399" alt="pony-town-pt-piddlesjet but shes cooler-boop-fly-name-padded-16x" src="https://github.com/user-attachments/assets/3b0b05fd-8e45-4ca4-931f-5ff572d962d5" /> <img width="200" alt="pony-town-PT-PiddlesJet-boop-fly-name-padded-16x" src="https://github.com/user-attachments/assets/e17e77f2-0bf6-48b5-a632-67aa305cb469" />
 
+<p align="left">
+<img width="200" alt="anthro piddlesjet" src="https://i.postimg.cc/6qtFDyHv/anthro-piddlesjet.jpg" />
+</p>
+
+also say hello to anthro piddlesjet
 
 <p align="left">
   <img src="https://i.postimg.cc/GpmpKwxn/qna-pj.png" alt="pj qna" width="200"> 
