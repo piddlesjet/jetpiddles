@@ -57,6 +57,10 @@ nope! It's a special category for custom titles, but not limited to yumeshipping
 
 "Ship" titles go under the custom titles category! anything unrelated/unfitting to the set categories (popular, always online, prettiest skins/layouts, cuddle bugs and character nominations) will go under the custom titles category.
 
+<img width="452" height="52" alt="image" src="https://github.com/user-attachments/assets/d5d8702f-342d-47e3-b03d-2842363ba3d6" />
+
+Yes! You can remove a deleted github account, but you must be specific about which one you want to remove.
+
 <p align="left">
   <img src="https://i.postimg.cc/Kv7vyv0p/random-pj.png" alt="pj random" width="200"> 
 </p> 
